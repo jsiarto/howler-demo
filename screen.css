@@ -1,4 +1,7 @@
-/* Add screen styles below */
-a.active {
-    font-weight: bold;
+
+button {
+    font-size: 3em;
+    width: 100px;
+    height: 100px;
+    vertical-align: top;
 }
